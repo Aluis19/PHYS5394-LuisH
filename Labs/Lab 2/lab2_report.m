@@ -1,13 +1,6 @@
 %% Lab 2: Sampling, FIR Filtering, and Time-Frequency Analysis
-% Luis Alonso Hernandez Galvan
+% Luis A Hernandez
 % PHYS 5394 - Statistical Methods
-%
-% Keep this file, the lab2 scripts, all eight test scripts, and all eight
-% crcbgen functions in the same folder. Requires Signal Processing Toolbox.
-% Open in the MATLAB Editor, save as a Live Script (.mlx), and run sections
-% in order. The Live Editor can export the completed results to PDF.
-% This report generates 8 sampling comparisons, 4 filtering figures,
-% and 8 spectrograms. It preserves the original test script files.
 
 %% 1. Sampling parameters
 % For phase phi(t) in radians, instantaneous frequency is phi'(t)/(2*pi).
